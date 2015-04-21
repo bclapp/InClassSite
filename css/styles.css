@@ -1,0 +1,16 @@
+/* Your Styling */
+
+h1 {
+	color: orange;
+}
+
+
+.char1,
+.char8,
+.char10,
+.word13,
+.word23 {
+	font-size: 3em;
+	color: green;
+}
+
